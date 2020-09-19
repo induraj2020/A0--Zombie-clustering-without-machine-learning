@@ -37,4 +37,4 @@ example 2, Answer expected : result = 3
 
 * using solution 2, visual representation of cluster of zombies and non zombies
 
-![](g .PNG)
+![](g.PNG)
