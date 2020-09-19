@@ -33,8 +33,8 @@ example 2, Answer expected : result = 3
 
 * using solution 1.
 
-![](g.PNG)
-
-* using solution 2
-
 ![](g1.PNG)
+
+* using solution 2, visual representation of cluster of zombies and non zombies
+
+![](g .PNG)
